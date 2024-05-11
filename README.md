@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditi Ajudia</h1>
 <h3 align="center">A pre final year student pursuing computer engineering 👩‍💻 form Vishwakarma Government Engineering College. With a foundation in Graphic 👩‍🎨 and UI/UX 🎨 design, my passion extends to the dynamic fields of Machine Learning 🧠, Cloud Computing ☁️, and Cybersecurity 🕵️‍♀️.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5cGJsZTMwNzZoM2U3OWQxOGs2cDFycGx6dWY0YjAzdWpscnZ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apmapm1&label=Profile%20views&color=0e75b6&style=flat" alt="apmapm1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apmapm1" alt="apmapm1" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/APMAPM1](https://github.com/APMAPM1)
 
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apmapm1&show_icons=true&locale=en" alt="apmapm1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apmapm1&" alt="apmapm1" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apmapm1" alt="apmapm1" /></a> </p>
+
