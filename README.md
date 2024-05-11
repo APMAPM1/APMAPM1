@@ -1,3 +1,7 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*VFYWXlag5Sxqgpq7EHJ7CA.gif)](https://miro.medium.com/v2/resize:fit:640/format:webp/1*VFYWXlag5Sxqgpq7EHJ7CA.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Aditi Ajudia</h1>
 <h3 align="center">A pre final year student pursuing computer engineering 👩‍💻 form Vishwakarma Government Engineering College. With a foundation in Graphic 👩‍🎨 and UI/UX 🎨 design, my passion extends to the dynamic fields of Machine Learning 🧠, Cloud Computing ☁️, and Cybersecurity 🕵️‍♀️.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5cGJsZTMwNzZoM2U3OWQxOGs2cDFycGx6dWY0YjAzdWpscnZ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
